@@ -13,9 +13,6 @@ import sun.security.provider.SHA;
 import java.util.LinkedHashMap;
 import java.util.Map;
 
-/**
- * Created by zhangsen on 2018/2/8.
- */
 @Configuration
 public class ShiroConfig {
     @Bean
